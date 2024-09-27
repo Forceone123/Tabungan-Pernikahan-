@@ -98,7 +98,7 @@
         /* Target Tabungan */
         #target {
             position: fixed;
-            bottom: 388px;
+            bottom: 1000px;
             right: 5px;
             z-index: 100;
             font-size: 10px; /* Ukuran lebih kecil */
